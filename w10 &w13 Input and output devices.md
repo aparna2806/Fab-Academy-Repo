@@ -25,10 +25,10 @@ Allowing communication between two components on a pcb or breadbord or rasberry 
 
 <li>Trying to understand how to send messages through RX and TX: </li>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/11.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/11.jpg" width="560"/>
 <li>Our Arduino code: </li>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/12.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/12.jpg" width="560"/>
 <p align="center">
 <img title="miro" alt="brainstorm" src="/images/28.png" width="560"/>
 <p align="center">
