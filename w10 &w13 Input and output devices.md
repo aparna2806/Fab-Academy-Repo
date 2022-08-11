@@ -3,14 +3,6 @@
 <h3> Input and Output Devices </h3>
 <h3> Task </h3>
 Allowing communication between two components on a pcb or breadbord or rasberry pi. We have to make a circuit where there is back and forth information transfer about the state of the button (digital) the potentiometer(analog) It is time to fabricate it ( finish the design - mill it - solder it).
-
-<h3>Milling Process:</h3>
-<li>The first time when we cut Dafni was around to help. But we didn't know that the image was horizontal and we placed the plate vertically. For this reason, we had to repeat it.</li>
-<li>We cross checked again if all our images were of the same length and width when we convereted them in imkscape.</li>
-<h3>Learnings:</h3>
-<li>The section is aimed at INPUTS (sensors) and for OUTPUTS (motors, LEDs)</li>
-<li>We touched upon the basics of electronics such as amperage, voltage and current.</li>
-<li>We saw different kinds of motors we can find (DC, steppers and MOSFETs, servomotors...), then LEDs, piezo and some others.
 <h3>Process</h3>
 <li>Borka and I teamed up again as we decided to learn electronics together. Jeremy was super helpful when we had silliest of the doubts</p>
 <li>We wanted to make something simple as we lost touch with arduino and the basics of it (last we did was during tech beyond myth class).</li>
@@ -33,3 +25,12 @@ Allowing communication between two components on a pcb or breadbord or rasberry 
 <img title="miro" alt="brainstorm" src="/images/28.png" width="560"/>
 <p align="center">
 <li>Video where Borka and I are changing the brightness of LED with a potentiometer that's on a different board can be found here - https://drive.google.com/file/d/1hSKlAS_nKLKWMcwf_82Jps-esQRxoBUt/view?usp=sharing </li>
+
+<h3>Learnings:</h3>
+<li>The section is aimed at INPUTS (sensors) and for OUTPUTS (motors, LEDs)</li>
+<li>We touched upon the basics of electronics such as amperage, voltage and current.</li>
+<li>We saw different kinds of motors we can find (DC, steppers and MOSFETs, servomotors...), then LEDs, piezo and some others.
+
+<h3>Next step- Milling:</h3>
+<li>The first time when we cut Dafni was around to help. But we didn't know that the image was horizontal and we placed the plate vertically. For this reason, we had to repeat it.</li>
+<li>We cross checked again if all our images were of the same length and width when we convereted them in imkscape.</li>
