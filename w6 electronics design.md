@@ -17,7 +17,7 @@
 <li>I'd three files for milling: the holes, the circuit and the outline.
 <li> when I was confused about paramters to be changed. I followed the video that was uploaded by Joseph on Classes tab.
 <li>Jeremy helped Borka and me to understand the goal of creating our own PCBs and he advised us to prototype on breadboard first before deisgning to make sure the connection works and we have the components.
-<li> During the process, I realised it quite important to understanf the functionality of the components to be more clear.
+<li> During the process, I realised it quite important to understand the functionality of the components to be more clear.
 
 <p align="center">
 <img title="miro" alt="brainstorm" src="/images/10.png" width="560"/>
@@ -30,3 +30,10 @@
 
 <p align="center">
 <img title="miro" alt="brainstorm" src="/images/13.MOV" width="560"/>
+
+<li>Files are attached below:</li>
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/22.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/21.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/23.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/mill.png" width="560"/>

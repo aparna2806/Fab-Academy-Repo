@@ -20,5 +20,3 @@ void loop()
 Using Arduino map() function which can put a number into a different range.
   int brightness = map(potentiometerValue, 0, 1023, 0, 255);
 }
-
-video can be found here - https://drive.google.com/file/d/1hSKlAS_nKLKWMcwf_82Jps-esQRxoBUt/view?usp=sharing

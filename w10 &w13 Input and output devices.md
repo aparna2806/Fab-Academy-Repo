@@ -20,9 +20,16 @@ Allowing communication between two components on a pcb or breadbord or rasberry 
 <li>After some time, we got to know that there is TX RX connection system also that could be explored if we want to pass on information from one board to another.</li>
 <li>Working with endmill was a little tricky. I didn't know how to tighten and loosen it at the start.</li>
 <li>Finally, we wrote code for declaring the components to the pin they are connected to and then initialising it.</li>
+
+<li>We did a small project which helps us to get familiar with this topic and learn the basics for further development, so I designed a PCB board for a potentiometer output, which controls the LED brightness.</li>
+
+<li>Trying to understand how to send messages through RX and TX: </li>
 <p align="center">
-<img title="miro" alt="brainstorm" src="/images/10.png" width="560"/>
-<img title="miro" alt="brainstorm" src="/images/22.png" width="560"/>
-<img title="miro" alt="brainstorm" src="/images/21.png" width="560"/>
-<img title="miro" alt="brainstorm" src="/images/23.png" width="560"/>
-<img title="miro" alt="brainstorm" src="/images/mill.png" width="560"/>
+<img title="miro" alt="brainstorm" src="/images/11.png" width="560"/>
+<li>Our Arduino code: </li>
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/12.png" width="560"/>
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/28.png" width="560"/>
+<p align="center">
+<li>Video where Borka and I are changing the brightness of LED with a potentiometer that's on a different board can be found here - https://drive.google.com/file/d/1hSKlAS_nKLKWMcwf_82Jps-esQRxoBUt/view?usp=sharing </li>

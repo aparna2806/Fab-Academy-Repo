@@ -7,17 +7,17 @@
 <p>I believe that the project is easy to scale up as it's exists in repo format on guthub and has been uploaded on a website link through guthub pages. As for the json files, I would be willing to put my files online so that others could learn from what I'm making. I think it gives us the great opportunity to create new connections within our community. </p>
 
 <h3>Why</h3>
-Connecting people, form new communities, throw ourselves out there, gain experience in this field.
+Connecting people, form new communities, gain experience in this field.
 
 <h3>What</h3>
 <p>Inspiring synergies through bio-design</p>
 <p align="center">
 <img title="miro" alt="brainstorm" src="/images/181.png" width="560"/>
 <h3>Exhibition Description </h3>
-<p>During this celebratory exhibition, we invite you to join us as we re-interpret our relationships with our ecological systems. On display, you will find designed artifacts, bio-remediation experiments, symbiotic wearables, interactive art displays, and audiovisuals that push us to re-think our parasitic role in the Anthropocene. We welcome you to enjoy live music and Spirulina cocktails, dress up as a bio-borg, or speculate on how to bio-remediate our plastic planet, form symbiotic relationships with microorganisms, and live in balance with our natural systems.</p>
+<p>During this celebratory exhibition, we (the participants are written below) invite you to join us as we re-interpret our relationships with our ecological systems. On display, you will find designed artifacts, bio-remediation experiments, symbiotic wearables, interactive art displays, and audiovisuals that push us to re-think our parasitic role in the Anthropocene. We welcome you to enjoy live music and Spirulina cocktails, dress up as a bio-borg, or speculate on how to bio-remediate our plastic planet, form symbiotic relationships with microorganisms, and live in balance with our natural systems.</p>
 
 <h3>Who</h3>
-<p>with: Paula Rio, Julia, Marina, Pippa</p>
+<p>with: Aparna, Paula Rio, Julia, Marina, Pippa</p>
 <p>for: we will be speaking with other designers, students in art/architecture/design, and professionals engaging with innovative projects</p>
 
 <h3>Where</h3>

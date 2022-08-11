@@ -10,7 +10,7 @@ Code an interface with the tools provided during the (processing,P5JS, MitAppInv
 <li>Node Redflow - based development tool for visual programming for wiring together hardware devices, APIs and online services as part of the Internet of Things.
 <li>Serial Communication
 <li>Blender - is a multitool software, capable of 3D modeling, Video edditing, produciong CAM files and even interact with the real world. We can program on it using Python.
-<li>p5js is a Javasript libaray developed by the Processing Foundation to make a web-based version of Provessing.
+<li>p5js is a Javasript libaray developed by the Processing Foundation to make a web-based version of Processing.
 <li>Second half of the class was pretty cool. Victor gave us a short tutorial on how to program from Blender and how to transform it also in a visual representation, either 3D or 3D.
 <h3>Designing_an_interface</h3>
 Didas, Nikita and I created an interface that allowed us to communicate with Arduino IDE in a graphical way. We wanted to activate an air pump by tapping on our phone screens for our micro challenge 3. Link to the project- https://github.com/aparna2806/fab-challenge-3
