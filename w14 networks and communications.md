@@ -14,3 +14,6 @@
 <li>This is the code here: </li>
 <p align="center">
 <img title="miro" alt="brainstorm" src="/images/12.jpg" width="560"/>
+
+<p align="center">
+<img title="miro" alt="brainstorm" src="/images/29.png" width="560"/>
